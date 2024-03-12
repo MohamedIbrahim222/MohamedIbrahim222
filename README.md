@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
 <h3 align="center">A backend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 💬 Ask me about **Backend "Node.js"**
 
